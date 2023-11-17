@@ -1,0 +1,34 @@
+﻿  main.c
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(90,9): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(106,17): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(123,39): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(229,19): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(233,28): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(238,19): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(242,28): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(280,37): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(281,37): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(282,45): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(283,45): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(285,62): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(292,79): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(293,79): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(322,61): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(331,62): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(340,56): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(364,25): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(366,38): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(367,38): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(375,25): warning C4305: '-=' : troncation de 'double' à 'float'
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(377,38): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(378,38): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(385,48): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(390,48): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(402,36): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(403,36): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(410,20): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(416,29): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(422,20): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(428,29): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\main.c(492,43): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Asteroids Visual.vcxproj -> C:\Users\gassa\OneDrive\Bureau\projet\Asteroids Visual\x64\Debug\Asteroids Visual.exe
